@@ -4,8 +4,6 @@
 
 [项目官网](https://equip-manager.eclx.win/) · [官网排行榜](https://equip-manager.eclx.win/rank) · [问题反馈](https://github.com/awesomehy/DNAEquipManager/issues) · [使用讨论](https://github.com/awesomehy/DNAEquipManager/discussions) · [GitHub](https://github.com/awesomehy/DNAEquipManager) · [Gitee](https://gitee.com/awesomehy/DNAEquipManager)
 
-> 当前仍在开发迭代，尚未正式发布。以下为最新开发版的真实界面，截图使用演示数据。正式发布后仅提供 `.exe` 文件，支持 Windows 10 / 11 x64，无需安装 Python。
-
 ![阵容装备界面：主 C 与两名魅影分别查看穿戴，点击部位开始比较](preview.webp)
 
 ## 从这里开始
